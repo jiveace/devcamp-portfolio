@@ -6,4 +6,11 @@ class Portfolio < ApplicationRecord
   end
 
   scope :need, -> { where(subtitle: 'The service you need right now') }
+
+  after_initialize :set_defaults
+
+  def set_defaults
+    self.main_image ||= "https://cdn.sescoops.com/wp-content/uploads/2018/01/njpw-australia-696x392.jpg"
+    self.thumb_image ||= "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/NJPW-Logo.png/200px-NJPW-Logo.png"
+  end
 end

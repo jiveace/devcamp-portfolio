@@ -37,8 +37,8 @@ puts "5 skills created"
     title: "Portfolio title: #{portfolio_item}",
     subtitle: "The service you deserve",
     body: "Lorem ipsum Saskatchewan DDT sit amet, consectetur Russian cloverleaf elit. Nullam dignissim Saskatchewan moonsault dui, et moss-covered arm bar mauris Russian bulldog a. Class aptent taciti Saskatchewan spear ad litora torquent springboard hip toss conubia crossbody claw per inceptos himenaeos. gutwrench facebuster eget bionic hurricanrana odio. Sed tempor enim purus, Saskatchewan catapult interdum mi facilisis vitae. Maecenas imperdiet five-star facebuster in ante mollis ultrices. Nullam pumphandle corkscrew nibh ullamcorper, vulputate frog splash bulldog et, pellentesque lorem. Aenean frog splash cobra clutch nibh eros, ac tincidunt mauris bionic clothesline in.",
-    main_image: "https://placeholdit.co//i/600x400?",
-    thumb_image: "https://placeholdit.co//i/350x200?"
+    main_image: "https://cdn.sescoops.com/wp-content/uploads/2018/01/njpw-australia-696x392.jpg",
+    thumb_image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/NJPW-Logo.png/200px-NJPW-Logo.png"
   )
 end
 
@@ -47,8 +47,8 @@ end
     title: "Portfolio title: #{portfolio_item}",
     subtitle: "The service you need right now",
     body: "Lorem ipsum Saskatchewan DDT sit amet, consectetur Russian cloverleaf elit. Nullam dignissim Saskatchewan moonsault dui, et moss-covered arm bar mauris Russian bulldog a. Class aptent taciti Saskatchewan spear ad litora torquent springboard hip toss conubia crossbody claw per inceptos himenaeos. gutwrench facebuster eget bionic hurricanrana odio. Sed tempor enim purus, Saskatchewan catapult interdum mi facilisis vitae. Maecenas imperdiet five-star facebuster in ante mollis ultrices. Nullam pumphandle corkscrew nibh ullamcorper, vulputate frog splash bulldog et, pellentesque lorem. Aenean frog splash cobra clutch nibh eros, ac tincidunt mauris bionic clothesline in.",
-    main_image: "https://placeholdit.co//i/600x400?",
-    thumb_image: "https://placeholdit.co//i/350x200?"
+    main_image: "https://cdn.sescoops.com/wp-content/uploads/2018/01/njpw-australia-696x392.jpg",
+    thumb_image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/NJPW-Logo.png/200px-NJPW-Logo.png"
   )
 end
 
