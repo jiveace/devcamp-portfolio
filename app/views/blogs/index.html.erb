@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <th>Title</th>
-      <th>Description</th>
+      <th>Body</th>
       <th>Age</th>
       <th colspan="4"></th>
     </tr>
@@ -16,7 +16,7 @@
     <% @blogs.each do |blog| %>
       <tr>
         <td><%= blog.title %></td>
-        <td><%= blog.description %></td>
+        <td><%= blog.body %></td>
         <td><%= blog.age %></td>
         <td><%= link_to blog.status, toggle_status_blog_path(blog) %></td>
         <td><%= link_to 'Show', blog %></td>
