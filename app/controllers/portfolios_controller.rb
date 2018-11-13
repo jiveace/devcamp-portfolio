@@ -4,6 +4,10 @@ class PortfoliosController < ApplicationController
     @portfolio_items = Portfolio.all
   end
 
+  def deserve
+    @deserve_portfolio_items = Portfolio.deserve
+  end
+
   def new
     @portfolio_item = Portfolio.new
   end
