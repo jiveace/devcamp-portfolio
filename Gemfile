@@ -60,3 +60,4 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails'
 
 gem 'iam_view_tool', git: 'https://github.com/jiveace/iam_view_tool'
+gem 'petergate', '~> 1.7'
