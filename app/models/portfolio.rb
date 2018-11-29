@@ -9,6 +9,10 @@ class Portfolio < ApplicationRecord
     where(subtitle: 'The service you deserve')
   end
 
+  def self.by_position
+    order("position ASC")
+  end
+
   scope :need, -> { where(subtitle: 'The service you need right now') }
 
   after_initialize :set_defaults
