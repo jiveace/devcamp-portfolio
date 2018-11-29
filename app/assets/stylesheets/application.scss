@@ -199,9 +199,9 @@ body {
   z-index: -100;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  background: image-url('profile.png') no-repeat;
+  // background: image-url('profile.png') no-repeat;
   background-size: cover;
 }
 .app-footer {
-  color: black
+  color: white
 }
