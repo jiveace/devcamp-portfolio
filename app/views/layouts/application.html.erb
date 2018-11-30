@@ -17,6 +17,14 @@
       <div class="site-wrapper-inner">
         <div class="cover-container">
 
+          <%= video_tag(
+            'disco.mov',
+            id: 'background',
+            autoplay: true,
+            muted: true,
+            loop: true,
+          ) %>
+
           <%= render "shared/application_nav" %>
 
           <%= yield %>
